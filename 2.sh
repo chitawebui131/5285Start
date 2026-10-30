@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, DevOps 1"
+echo "Hello, students"
